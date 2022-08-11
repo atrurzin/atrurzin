@@ -1,8 +1,9 @@
 -  Hi, I’m @atrurzin
--  I’m interested in programing and gym
--  I’m currently learning ow to be the best version of me
--  I’m looking to collaborate on a date
--  How to reach me (44) 98447-1466 or instagram @oliv.arthuuur
+-  I’m interested in programing, gym and basketball
+-  I’m currently learning about programing 
+-  I’m looking to 
+- <a href="https://instagram.com/oliv.arthuuur="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&quot; target="_blank"></a>
+
 
 <!---
 atrurzin/atrurzin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
