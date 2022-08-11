@@ -1,7 +1,7 @@
 -  Hi, I’m @atrurzin
 -  I’m interested in programing, gym and basketball
 -  I’m currently learning about programing 
--  I’m looking to 
+ 
 -  Contact me on intagram: @oliv.arthuuur
 
 
