@@ -1,11 +1,7 @@
--  Hi, I’m @atrurzin
--  I’m interested in programing, gym and basketball
--  I’m currently learning about programing 
- 
--  Contact me on intagram: @oliv.arthuuur
+# sobre mim
 
-
-<!---
-atrurzin/atrurzin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Meu nome é Arthur Oliveira
+- tenho 15 anos 
+- procuro aprender sobre programação 
+- https://instagram.com/oliv.arthuuur
+- jogo basquete e faço academia
